@@ -1,0 +1,12 @@
+[package]
+name = "kanva"
+description = "An intermediate scene representation for vector graphics."
+version = "0.0.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/voxell-tech/kanva"
+categories = ["multimedia", "graphics", "visualization"]
+
+[dependencies]
+kurbo = "0.12.0"
+vello = "0.6.0"
